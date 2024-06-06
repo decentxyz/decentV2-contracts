@@ -16,3 +16,6 @@
 [submodule "lib/decent-bridge"]
 	path = lib/decent-bridge
 	url = https://github.com/decentxyz/decent-bridge
+[submodule "lib/solidity-examples"]
+	path = lib/solidity-examples
+	url = https://github.com/LayerZero-Labs/solidity-examples
