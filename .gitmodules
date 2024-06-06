@@ -13,3 +13,6 @@
 [submodule "lib/swap-router-contracts"]
 	path = lib/swap-router-contracts
 	url = https://github.com/uniswap/swap-router-contracts
+[submodule "lib/decent-bridge"]
+	path = lib/decent-bridge
+	url = https://github.com/decentxyz/decent-bridge
